@@ -1,0 +1,27 @@
+
+本地工作- master
+
+1. cd 项目目录
+2. 如果是新项目，则执行指令
+   git init,之后进行项目开发工作，完成一个功能开发后，
+   则git stauts 看一下现在工作的状态，然后Git Add **.**
+   最后， git commit -m "message" 
+   提交改动到版本库。
+
+远程工作
+1. 添加远程库
+   git remote add orgin https://xxx.xx/ss.git
+2. 先Pull
+   git pull orgin master
+3. PUSH
+   git push orgin master
+
+分支工作
+
+1.  git checkout -b "Develop"
+    创建新的分支，如果分支不存在，否则切换到Develop分支
+
+2。 其他工作相同，
+
+3.  Push 到远程，
+    git push orgin Develop
