@@ -2,3 +2,7 @@
 embed image into SVG
 http://jsfiddle.net/MxHPq/
 
+http://stackoverflow.com/questions/15895483/angular-ng-href-and-svg-xlink
+
+https://github.com/angular/angular.js/issues/7697
+
