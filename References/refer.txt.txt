@@ -1,0 +1,4 @@
+
+embed image into SVG
+http://jsfiddle.net/MxHPq/
+
